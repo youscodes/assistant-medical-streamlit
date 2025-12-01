@@ -33,3 +33,5 @@ L’application analyse les combinaisons de symptômes sélectionnés pour affic
 Toux + fièvre → profil compatible grippe
 Éternuements + yeux qui grattent → profil compatible allergie
 Mal de gorge → irritation ou infection légère
+---------------------------------------
+https://automatic-space-palm-tree-xjrwv6pqggrc6r74-8501.app.github.dev/
