@@ -1,6 +1,7 @@
 # assistant-medical-streamlit
 Assistant Symptômes 
 Application interactive permettant d’orienter l’utilisateur sur des symptômes courants (grippe, allergie, mal de gorge) grâce à une interface simple développée avec Streamlit.
+
 📌 Objectif du projet
 Ce projet a été réalisé dans le cadre d’un premier exercice pratique pour découvrir :
 - la création d’une interface utilisateur simple,
