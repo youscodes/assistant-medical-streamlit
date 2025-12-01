@@ -39,4 +39,4 @@ Toux + fièvre → profil compatible grippe
 Mal de gorge → irritation ou infection légère
 
 ---------------------------------------
-https://automatic-space-palm-tree-xjrwv6pqggrc6r74-8501.app.github.dev/
+https://assistant-medical-app-7c7vpqwuyebgevb7zuuf8a.streamlit.app/
