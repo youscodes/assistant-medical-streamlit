@@ -112,4 +112,31 @@ if st.button("Analyser"):
         for c in conseils:
             st.write("• " + c)
         st.markdown("</div>", unsafe_allow_html=True)
+@app.route('/rendez-vous')
+def rendez_vous():
+    return f"""
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Rendez-vous - Mon Cabinet</title>
+        <style>
+            body {{ font-family: Arial, sans-serif; margin:0; padding:20px; background:#f8f9fa; }}
+            .formulaire {{ max-width:900px; margin:40px auto; background:white; padding:40px; border-radius:20px; box-shadow:0 10px 40px rgba(0,0,0,0.1); text-align:center; }}
+            iframe {{ width:100%; height:1000px; border:none; border-radius:16px; }}
+        </style>
+    </head>
+    <body>
+        <!-- ICI TU PEUX GARDER TON MENU / HEADER EXISTANT SI TU VEUX -->
+        
+        <div class="formulaire">
+            <h1>Prenez rendez-vous en 30 secondes</h1>
+            <p>Notre IA analyse vos symptômes et réserve automatiquement si nécessaire</p>
+            
+            <iframe src="https://yastene44.app.n8n.cloud/form/1878a2aa-d70e-425e-af4b-08e604abef4f" allowfullscreen></iframe>
+        </div>
+    </body>
+    </html>
+    """
 
