@@ -40,3 +40,6 @@ Mal de gorge → irritation ou infection légère
 
 ---------------------------------------
 https://assistant-medical-app-7c7vpqwuyebgevb7zuuf8a.streamlit.app/
+---------------------------------------
+https://yastene44.app.n8n.cloud/form/1878a2aa-d70e-425e-af4b-08e604abef4f
+----------------------------------------
