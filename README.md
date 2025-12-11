@@ -40,6 +40,10 @@ Mal de gorge → irritation ou infection légère
 
 ---------------------------------------
 https://assistant-medical-app-7c7vpqwuyebgevb7zuuf8a.streamlit.app/
----------------------------------------
+-
+🤖 AGENT AI PART :
+-
+Un agent d’intelligence artificielle (Agent IA) est un système capable de percevoir son environnement, d’analyser les informations et de prendre des décisions de manière autonome afin d’atteindre des objectifs précis, sans intervention humaine directe à chaque étape. Il est utilisé dans des domaines comme la robotique, les assistants virtuels et les systèmes de recommandation.
+
 https://yastene44.app.n8n.cloud/form/1878a2aa-d70e-425e-af4b-08e604abef4f
 ----------------------------------------
